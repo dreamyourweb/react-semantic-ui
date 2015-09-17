@@ -1,0 +1,1 @@
+Semantify = require("react-semantify");
